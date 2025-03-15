@@ -8,7 +8,7 @@
    - Set **padding='max_length'**
 
 
-<h1>Training Strategy Suggestion<h1> 
+<h1>Training Strategy Suggestion</h1> 
 - Due to the time consuming and limited computing resource, here are suggest on training strategy:
 
 1. Using special tokenizer specialized for BERT, if posible use phoBERT
