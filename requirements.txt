@@ -1,2 +1,8 @@
 python-3.12
 underthsea
+torch
+transformers
+datasets
+scikit-learn
+accelerate
+
