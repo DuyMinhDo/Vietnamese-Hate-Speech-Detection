@@ -1,0 +1,344 @@
+{
+    "predictions": [
+        {
+            "comment": "Đm, biến khỏi mắt tao ngay!",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "Hnay trời đẹp quá!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "M tin tao đấm vỡ alo k?",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Lồn mẹ m, đừng có lắm mồm!",
+            "predicted_label": "Hate"
+        },
+        {
+            "comment": "Sách này hay vãi!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Nói ít lại dùm tao!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Du lịch thích nhỉ!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Chúc bạn ngày tốt lành!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Cẩn thận, sấp mặt h bây giờ!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Sống vui vẻ hơn đi!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Đm, xã hội nát vì loại này!",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "L, tao éo để yên đâu!",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "Tuyệt vời ông mặt trời!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Cặn bã nhất t từng gặp!",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "Luôn lạc quan lên nhé!",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "Hó hé là nát răng!",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "Sách giúp mở mang đầu óc!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Bộ m thích gây chuyện hả?",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Tập gym đi, yếu vl!",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "M làm t phát bực!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Lập trình vui phết!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Biến nhanh, rác rưởi!",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "Tôn trọng ý kiến nhau đi!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Ngậm mồm lại!",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "M còn đứng đây là ăn đấm!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Cây xanh tốt cho môi trường!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "M chỉ biết phá đám!",
+            "predicted_label": "Hate"
+        },
+        {
+            "comment": "Luôn giúp đỡ nhau nha!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Vô dụng như m, thua!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Cuối tuần có plan gì k?",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Bố m biến ngay!",
+            "predicted_label": "Hate"
+        },
+        {
+            "comment": "Làm chăm chỉ thì thành công!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Nhát như con cáy!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Đi bộ sáng sướng ghê!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Gặp lại là t đánh!",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "Gia đình là số 1!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Dmm, đừng có mà léng phéng!",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "Cà phê sáng ngon v~!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "M làm trò hề gì đấy?",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Tập trung làm việc đi!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "M là thảm họa!",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "Trân trọng gia đình!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Cảnh cáo lần cuối!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "M phiền vcđ!",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "M thất bại của tạo hóa!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Đọc sách mỗi ngày!",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "Đừng có mà tinh tướng!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "M đụng t là ăn đấm!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Ai cũng có giá trị riêng!",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "M k còn răng để nhai!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Nỗ lực đi, đừng bỏ cuộc!",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "Ăn bám như m ghét vl!",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "Tận hưởng cs đi!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "M léng phéng là chết!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Kiên trì là chìa khóa!",
+            "predicted_label": "Hate"
+        },
+        {
+            "comment": "Lượn đi trc khi t cáu!",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "Quý trọng tgian bên gia đình!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "M là thứ bỏ đi!",
+            "predicted_label": "Hate"
+        },
+        {
+            "comment": "Sống vui vẻ lên!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "T éo muốn nói chuyện vs m!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "M có não k đấy?",
+            "predicted_label": "Hate"
+        },
+        {
+            "comment": "Giúp đỡ nhau là điều tốt!",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "Muốn ăn đấm k?",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "Chân thành tạo ra bạn bè!",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "M hó hé t xử!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Chăm sóc bản thân đi!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Đừng có mà xàm xí!",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "Niềm tin tạo nên kỳ tích!",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "T cấm m lải nhải!",
+            "predicted_label": "Hate"
+        },
+        {
+            "comment": "Đm đúng bọn trẻ trâu =)) dùng mõm dồn ngta :)) bố mẹ ở nhà đ biết giúp đc gì chưa mà vẻ vang thế",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "con nhà quê ăn cứt",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "FPT mà cứ tưởng mình oxford, bãi cứt loại 2 cứ nghĩ mình phân loại 1",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "Bảo sao chồng bỏ =))))",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Câm cho bố lgpt còn hay ho à",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Chó hùa theo đàn còn hơn con đàn bà lăng loàn hùa theo chó bị hoạn !",
+            "predicted_label": "Hate"
+        },
+        {
+            "comment": " ae duyệt binh 36!",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Anh em súc vật 36 đâu=)",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "Clm hài dón hòn zái vlone =)))))",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "Chính vì quen bọn tâm lý lệch lạc nó đâm bị thóc chọc bị gạo nên bị bỏ đó",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "Được lắm em . Em đang chửi Long Pk. chui cm thag long chun di",
+            "predicted_label": "Hate"
+        },
+        {
+            "comment": "chúc chị và chồng sớm ly hôn như cái mác fb chị để",
+            "predicted_label": "Clean"
+        },
+        {
+            "comment": "bãi cứt nào cũng có dấu răng mà nói động tới tí là cay à",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "Sống địt ra gì mới bị bỏ mới chịu cảnh đàn ông lăng nhăng:))) cứ ngon đòn đã địt phải bị single mom",
+            "predicted_label": "Offensive"
+        },
+        {
+            "comment": "địt mẹ bọn lgbt",
+            "predicted_label": "Hate"
+        },
+        {
+            "comment": "trai đ ra trai, gái đ ra gái. Súc vật",
+            "predicted_label": "Offensive"
+        }
+    ]
+}

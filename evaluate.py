@@ -24,7 +24,7 @@ def evaluate():
 
             all_preds.extend(preds)
             all_labels.extend(labels.cpu().numpy())
-
+            
     print(classification_report(all_labels, all_preds))
 
 if __name__ == "__main__":
